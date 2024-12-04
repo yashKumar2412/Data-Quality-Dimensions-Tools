@@ -5,7 +5,7 @@ As part of my Data Mining coursework, I have created this assignment repository 
 - [Research Paper](https://arxiv.org/pdf/2406.19614v1)
 - [Medium Article](https://medium.com/@yash.arunkumar/data-quality-tools-dimensions-a-survey-7e797ee8812b)
 - [Slide Presentation](https://www.slideshare.net/slideshow/data-quality-dimensions-tools-a-survey-pptx/273827170)
-- [Video Presentation]()
+- [Video Presentation](https://youtu.be/FaUWD3iwLv4)
 
 ## Abstract
 Machine learning (ML) technologies have become substantial in practically all aspects of our society, and data quality (DQ) is critical for the performance, fairness, 
