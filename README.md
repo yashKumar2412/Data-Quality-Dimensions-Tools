@@ -4,7 +4,7 @@ As part of my Data Mining coursework, I have created this assignment repository 
 ## A Survey on Data Quality Dimensions and Tools for Machine Learning
 - [Research Paper](https://arxiv.org/pdf/2406.19614v1)
 - [Medium Article](https://medium.com/@yash.arunkumar/data-quality-tools-dimensions-a-survey-7e797ee8812b)
-- [Slide Presentation]()
+- [Slide Presentation](https://www.slideshare.net/slideshow/data-quality-dimensions-tools-a-survey-pptx/273827170)
 - [Video Presentation]()
 
 ## Abstract
